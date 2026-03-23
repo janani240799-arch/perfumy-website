@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+
+    color: white;
+}
+input{
+    width: 60%;
+    padding: 15px;
+
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+}
+.box1{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+}
+
+.box1:hover{
+    background-color: black;
+    color: white;
+}
+.Price1{
+    color: red;
+    font-style: bold;
+}
+.one{
+    background-color: blue;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    transition: 0.3s;
+}
+.one:hover{
+    background-color: gray;
+}
+
+.box2{
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300;
+}
+.box2:hover{
+    background-color: black;
+    color: white;
+}
+.Price2{
+    color: red;
+    font-style: bold;
+}
+.two{
+    background-color: blue;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+
+    
+    width: 100%;
+    transition: 0.3s;
+}
+.two:hover{
+    background-color: gray;
+}
+
+.box3{
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300;
+}
+.box3:hover{
+    background-color: black;
+    color: white;
+}
+.Price3{
+      color: red;
+      font-style: bold;
+}
+.three{
+    background-color: blue;
+    color: black;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    transition: 0.3s;
+}
+.three:hover{
+    background-color: gray;
+}
+
+.products{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.contacts{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
